@@ -32,3 +32,18 @@ Django
 SQLite (default database)
 
 HTML / CSS
+
+#🌐 Usage
+
+Open browser and go to:
+http://127.0.0.1:8000/
+
+Perform:
+
+Add new data
+
+View records
+
+Edit records
+
+Delete records
