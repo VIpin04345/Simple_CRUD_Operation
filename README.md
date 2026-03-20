@@ -100,4 +100,10 @@ Feel free to fork this repo and improve it. Contributions are welcome!
 
 # 📄 License
 
+
 This project is open-source and available under the MIT License.
+
+🙌 Author
+
+Vipin Yadav
+GitHub:https://github.com/VIpin04345/
