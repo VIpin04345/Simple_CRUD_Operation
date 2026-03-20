@@ -47,3 +47,13 @@ View records
 Edit records
 
 Delete records
+
+# 📌 Future Improvements
+
+Add authentication (Login/Signup)
+
+Improve UI with Bootstrap
+
+Add search and pagination
+
+Deploy on cloud (Render / Heroku / AWS)
