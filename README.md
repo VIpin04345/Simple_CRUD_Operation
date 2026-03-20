@@ -33,6 +33,42 @@ SQLite (default database)
 
 HTML / CSS
 
+# ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+
+git clone https://github.com/VIpin04345/Simple_CRUD_Operation/
+
+2️⃣ Navigate to project folder
+
+cd Simple_CRUD_Operation
+
+3️⃣ Create virtual environment
+
+python -m venv venv
+
+4️⃣ Activate virtual environment
+
+Windows:
+
+venv\Scripts\activate
+
+Mac/Linux:
+
+source venv/bin/activate
+
+5️⃣ Install dependencies
+
+pip install -r requirements.txt
+
+6️⃣ Run migrations
+
+python manage.py migrate
+
+7️⃣ Start server
+
+python manage.py runserver
+
 #🌐 Usage
 
 Open browser and go to:
