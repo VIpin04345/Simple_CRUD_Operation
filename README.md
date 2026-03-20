@@ -20,3 +20,15 @@ Delete records
 Simple and clean UI
 
 Django admin panel support
+
+
+
+# 🛠️ Tech Stack
+
+Python
+
+Django
+
+SQLite (default database)
+
+HTML / CSS
