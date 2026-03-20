@@ -57,3 +57,11 @@ Improve UI with Bootstrap
 Add search and pagination
 
 Deploy on cloud (Render / Heroku / AWS)
+
+# 🤝 Contributing
+
+Feel free to fork this repo and improve it. Contributions are welcome!
+
+# 📄 License
+
+This project is open-source and available under the MIT License.
