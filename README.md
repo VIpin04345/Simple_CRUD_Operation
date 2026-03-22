@@ -76,9 +76,9 @@ http://127.0.0.1:8000/
 
 Perform:
 
-Add new data
+- Add new data
 
-View records
+- View records
 
 Edit records
 
