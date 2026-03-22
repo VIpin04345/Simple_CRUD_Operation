@@ -86,9 +86,9 @@ Perform:
 
 # 📌 Future Improvements
 
-Add authentication (Login/Signup)
+- Add authentication (Login/Signup)
 
-Improve UI with Bootstrap
+- Improve UI with Bootstrap
 
 Add search and pagination
 
