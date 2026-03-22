@@ -25,13 +25,13 @@ this is the CRUD operation project based on fullstack.
 
 # 🛠️ Tech Stack
 
-Python
+1. Python
 
-Django
+2. Django
 
-SQLite (default database)
+3. SQLite (default database)
 
-HTML / CSS
+4. HTML / CSS
 
 # ⚙️ Installation & Setup
 
