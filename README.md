@@ -80,9 +80,9 @@ Perform:
 
 - View records
 
-Edit records
+- Edit records
 
-Delete records
+- Delete records
 
 # 📌 Future Improvements
 
