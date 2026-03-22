@@ -9,9 +9,9 @@ A simple CRUD (Create, Read, Update, Delete) web application built using Django.
 
 # 🚀 Features
 
-Create new records
+- Create new records
 
-Read/View all records
+- Read/View all records
 
 Update existing records
 
