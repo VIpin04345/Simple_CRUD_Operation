@@ -90,9 +90,9 @@ Perform:
 
 - Improve UI with Bootstrap
 
-Add search and pagination
+- Add search and pagination
 
-Deploy on cloud (Render / Heroku / AWS)
+- Deploy on cloud (Render / Heroku / AWS)
 
 # 🤝 Contributing
 
