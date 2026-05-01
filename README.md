@@ -6,7 +6,6 @@ this is the CRUD operation project based on fullstack.
 - A simple CRUD (Create, Read, Update, Delete) web application built using Django. This project demonstrates basic backend operations and database handling using Django framework.
 
 
-
 # 🚀 Features
 
 - Create new records
@@ -20,7 +19,6 @@ this is the CRUD operation project based on fullstack.
 - Simple and clean UI
 
 - Django admin panel support
-
 
 
 # 🛠️ Tech Stack
